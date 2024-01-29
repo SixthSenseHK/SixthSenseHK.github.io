@@ -21,7 +21,7 @@ Sixth Sense captures brainwave signals, processes them through AI algorithms, an
 For a detailed overview, refer to our [presentation slides](./slides/Sixth_Sense_Project_Overview.pdf).
 
 ## Product Showcase
-[![Product Video](./slides/materials/product.jpg)](./product/Product%20Video.mp4 "Click to Watch!")
+[![Product Video](./slides/materials/Product.jpeg)](./product/Product%20Video.mp4 "Click to Watch!")
 
 ## Contributing
 We welcome contributions! If you have suggestions or want to contribute code, please follow our [contribution guidelines](CONTRIBUTING.md).
