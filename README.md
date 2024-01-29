@@ -1,4 +1,4 @@
-# Sixth Sense Project
+![Logo](./slides/materials/Logo.jpg)
 
 ## Introduction
 Sixth Sense revolutionizes the way disabled individuals interact with their environment through a groundbreaking brain control interface. Utilizing an EEG headband and companion app, this technology enables intuitive communication and control with simple gestures like blinking, enhancing independence and safety.
